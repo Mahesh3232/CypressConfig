@@ -1,0 +1,5 @@
+{
+    "baseUrl":"https://www.facebook.com",
+    "execTimeout": 70000,
+    "numTestsKeptInMemory":55
+}
