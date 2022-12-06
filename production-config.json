@@ -1,4 +1,4 @@
 {
     "extends": "./cypress.json",
-    "baseUrl": "https://www.gmail.com"
-  }
+    "baseUrl": "https://www.instagram.com"
+}
